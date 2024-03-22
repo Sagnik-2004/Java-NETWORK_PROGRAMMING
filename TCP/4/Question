@@ -1,0 +1,4 @@
+4. Develop a Client-Server application using TCP where the client will send two file names to the
+server and the server will copy the content of the first file into the second file. After copying is
+done, the server will send appropriate message to the client. The second file should be initially
+empty. Assume that both files are present at the server.
