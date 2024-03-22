@@ -1,0 +1,4 @@
+5. Develop a client-server application using TCP where the client sends the name of a text file
+and size of the block of data to the server, the server checks availability of the text file and if
+the text file is available, sends the text file content to the client as per the input block size after
+reading the file contents. After sending the whole file, display appropriate message. 
