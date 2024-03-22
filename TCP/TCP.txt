@@ -1,0 +1,23 @@
+1. Develop a client-server application using TCP where the client will send a message to the
+server and the server will reply back to the client with another message. This communication
+will continue until the client sends a particular string to the server.
+
+2. Develop a client-server application using TCP where the client will send two operands and an
+operator to the server in operand1 operator operand2 format and the server will calculate the
+result and display it. Allowed operators are +, -, *, /, %.
+
+3. Develop a Client-Server application using TCP where the client will send two words to the
+server and the server will check whether same characters are present in both the words and
+they occur same number of times (irrespective of position of the characters) and send back the
+result to the client. The client will display the result.
+[Example: Input: listen silent, Output: Check condition satisfied.]
+
+4. Develop a Client-Server application using TCP where the client will send two file names to the
+server and the server will copy the content of the first file into the second file. After copying is
+done, the server will send appropriate message to the client. The second file should be initially
+empty. Assume that both files are present at the server.
+
+5. Develop a client-server application using TCP where the client sends the name of a text file
+and size of the block of data to the server, the server checks availability of the text file and if
+the text file is available, sends the text file content to the client as per the input block size after
+reading the file contents. After sending the whole file, display appropriate message. 
