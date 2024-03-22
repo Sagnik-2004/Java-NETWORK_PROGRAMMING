@@ -1,0 +1,5 @@
+3. Develop a Client-Server application using TCP where the client will send two words to the
+server and the server will check whether same characters are present in both the words and
+they occur same number of times (irrespective of position of the characters) and send back the
+result to the client. The client will display the result.
+[Example: Input: listen silent, Output: Check condition satisfied.]
